@@ -1,2 +1,2 @@
-# AoC-2023
-My solutions for Advent of Code 2023
+# AoC
+My solutions for Advent of Code. Not efficient, but they work!
