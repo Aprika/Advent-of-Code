@@ -1,2 +1,2 @@
-# AoC
-My solutions for Advent of Code. Not efficient, but they work!
+# Advent of Code
+My solutions for Advent of Code over the years. Not efficient, but they work!
